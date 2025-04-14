@@ -1,0 +1,5 @@
+x,y,z,type,custom:max_divisions,volume,cycle entry,custom:GFP,
+-80.,80.,0.0,default,1
+80.,80.,0.0,default,2
+-80.,-80.,0.0,default,3
+80.,-80.,0.0,default,4
